@@ -1,0 +1,15 @@
+.top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 40px;
+  background-color: #ffffff;
+}
+
+.imageDescription {
+  height: 200px;
+}
+.titreDescription {
+  padding: 0 70px;
+  align-items: center;
+}
